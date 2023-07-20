@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 4. Use the following command to start the bot:
 ```
-python bot/main.py
+python main.py
 ```
 #### Docker manual build
 ```shell
