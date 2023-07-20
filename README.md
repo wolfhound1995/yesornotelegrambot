@@ -22,8 +22,8 @@ Customize the configuration `token.env`, editing the required parameters as desi
 Clone the repository and navigate to the project directory:
 
 ```shell
-git clone https://github.com/wolfhound1995/yesorno.git
-cd yesorno
+git clone https://github.com/wolfhound1995/yesornotelegrambot.git
+cd yesornotelegrambot
 ```
 
 #### From Source
